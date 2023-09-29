@@ -9,8 +9,8 @@
 
 <channel>
 	<title>DIF</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://dnaicker86.github.io/dif/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dnaicker86.github.io/dif/</link>
 	<description></description>
 	<lastBuildDate>Fri, 29 Sep 2023 05:31:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://dnaicker86.github.io/dif/hello-world/</link>
+					<comments>https://dnaicker86.github.io/dif/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[dnaicker@gmail.com]]></dc:creator>
 		<pubDate>Fri, 29 Sep 2023 05:31:36 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://dnaicker86.github.io/dif/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://dnaicker86.github.io/dif/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
