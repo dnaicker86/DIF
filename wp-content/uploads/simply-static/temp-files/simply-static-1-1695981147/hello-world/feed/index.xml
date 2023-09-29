@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for DIF	</title>
-	<atom:link href="https://dnaicker86.github.io/dif-static/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dnaicker86.github.io/dif-static/</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://dnaicker86.github.io/dif/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dnaicker86.github.io/dif/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Fri, 29 Sep 2023 05:31:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://dnaicker86.github.io/dif-static/hello-world/#comment-1</link>
+		By: A WordPress Commenter		</title>
+		<link>https://dnaicker86.github.io/dif/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 29 Sep 2023 05:31:36 +0000</pubDate>
-		<guid isPermaLink="false">https://dnaicker86.github.io/dif-static/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://dnaicker86.github.io/dif/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
